@@ -14,7 +14,7 @@ Text Domain:
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     background-color: #30428B;
-    color: #30428B;
+    color: #f9f9f9;
     display: block;
     padding: 0 0 10px 0;
 }
@@ -336,7 +336,7 @@ footer ul li {
     padding-top: 8px;
 }
 footer #footer-media a {
-    color: #6D7BB7;
+    color: 6D7BB7;
     font-size: 14px
 }
 footer #footer-media a:hover {
