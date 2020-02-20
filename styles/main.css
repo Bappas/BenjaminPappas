@@ -216,7 +216,7 @@ Text Domain:
 }
 /* Hero on homepage*/
 #intro-hero {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1)), url("https://res.cloudinary.com/milessmith/image/upload/v1581227264/Personal%20Site/bench.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1)), url("/photos/chilcott.jpg");
   background-attachment: fixed;
 }
 #intro-hero .col-lg-8 .hero-text-wrapper h2{
@@ -266,7 +266,7 @@ Text Domain:
 
 /*First tab*/
 #events .pill_1 .wrapper {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://res.cloudinary.com/milessmith/image/upload/v1581228045/Personal%20Site/IMG_20190620_184815.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/photos/benonboat.jpg");
   background-position: 50% 20%;
   background-size: 100%;
   background-repeat: no-repeat;
@@ -292,21 +292,21 @@ Text Domain:
     box-shadow: 3px 3px black;
 }
 #events .pill_2 .wrapper {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://res.cloudinary.com/milessmith/image/upload/v1581226334/Personal%20Site/IMG_5965.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/photos/lacarlights.jpg");
   background-position: 0% 70%;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 #events .pill_3 .wrapper {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://res.cloudinary.com/milessmith/image/upload/v1581226653/Personal%20Site/IMG_6291-2.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/photos/SuttleDusk.jpg");
     background-position: 0% 70%;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 #events .pill_4 .wrapper {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://res.cloudinary.com/milessmith/image/upload/v1581298831/Personal%20Site/desk.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/photos/swanhallsunset.jpg");
     background-position: 100% 80%;
   background-size: cover;
   background-repeat: no-repeat;
