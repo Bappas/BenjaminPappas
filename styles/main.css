@@ -1,7 +1,7 @@
 /*
-Theme Name: Miles Smith Bio Site
+Theme Name: Ben Bio Site
 Theme URI: 
-Author: Miles Smith
+Author: Miles Smith but ben stole it with consent mwahahah
 Description: 
 Version: 1.0
 Text Domain: 
@@ -13,8 +13,8 @@ Text Domain:
 #header {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
-    background-color: #140A25;
-    color: #f9f9f9;
+    background-color: #30428B;
+    color: #30428B;
     display: block;
     padding: 0 0 10px 0;
 }
@@ -56,7 +56,7 @@ Text Domain:
     left: 0;
     right: 0;
     height: 2px;
-    background-color: #5A142A;
+    background-color: #6D7BB7;
 }
 #header nav ul li a:before {
     opacity: 0;
@@ -109,7 +109,7 @@ Text Domain:
 
 #header nav ul li input[type=search] {
     background: #ededed url("../Images/search_icon_white.svg") no-repeat 11px center;
-    border: solid 2px #5A142A;
+    border: solid 2px #6D7BB7;
     background-size: 24px;
     padding: 9px 12px 9px 32px;
     width: 5px;
@@ -127,11 +127,11 @@ Text Domain:
     transition: 1s;
     width: 135px;
     background-color: #f9f9f9;
-    border-color: #5A142A;
+    border-color: #6D7BB7;
     -webkit-box-shadow: 0 0 5px rgba(109,207,246,.5);
     -moz-box-shadow: 0 0 5px rgba(109,207,246,.5);
     box-shadow: 0 0 5px rgba(109,207,246,.5);
-    color: #660033;
+    color: #6D7BB7;
 }
 #header nav ul li input:-moz-placeholder {
     color: #999;
@@ -177,11 +177,11 @@ Text Domain:
     transition: 1s;
     width: 60%;
     background-color: #f9f9f9;
-    border-color: #DB2B30;
+    border-color: #6D7BB7;
     -webkit-box-shadow: 0 0 5px rgba(109,207,246,.5);
     -moz-box-shadow: 0 0 5px rgba(109,207,246,.5);
     box-shadow: 0 0 5px rgba(109,207,246,.5);
-    color: #660033;
+    color: #6D7BB7;
     outline: none;
     -webkit-border-radius: 3em;
     -moz-border-radius: 3em;
@@ -242,13 +242,13 @@ Text Domain:
     border-radius: 8px;
     height: 200px;
     text-align: center;
-    background-color: #5A142A;
+    background-color: #6D7BB7;
 }
 #events .pills .wrapper h3 {
     font-family: 'Titillium Web', sans-serif;   
 }
 #events .pills .wrapper a {
-    border: solid 1px #660033;
+    border: solid 1px #6D7BB7;
     box-shadow: 1px 1px black;
     background-color: transparent;
     font-size: 14px;
@@ -260,7 +260,7 @@ Text Domain:
 #events .pills .wrapper a:hover{
     transition: .8s;
     background-color: #f9f9f9;
-    color: #660033;
+    color: #6D7BB7;
     box-shadow: 3px 3px black;
 }
 
@@ -277,7 +277,7 @@ Text Domain:
   
 }
 #events .pill_1 .wrapper a {
-    border: solid 1px #660033;
+    border: solid 1px #6D7BB7;
     box-shadow: 1px 1px black;
     background-color: rgba(0, 0, 0, 0);
     font-size: 18px;
@@ -288,7 +288,7 @@ Text Domain:
 #events .pill_1 .wrapper a:hover{
     transition: 1s;
     background-color: #f9f9f9;
-    color: #660033;
+    color: #6D7BB7;
     box-shadow: 3px 3px black;
 }
 #events .pill_2 .wrapper {
@@ -316,7 +316,7 @@ Text Domain:
 
 /* Footer */
 footer {
-    background-color: #140A25;
+    background-color: #30428B;
     color: #f9f9f9;
     bottom: 0;
 }
@@ -336,7 +336,7 @@ footer ul li {
     padding-top: 8px;
 }
 footer #footer-media a {
-    color: rebeccapurple;
+    color: #6D7BB7;
     font-size: 14px
 }
 footer #footer-media a:hover {
@@ -346,7 +346,7 @@ footer #footer-media a:hover {
     cursor: pointer;
 }
 footer #footer-links a {
-    color: rebeccapurple;   
+    color: #6D7BB7;   
         font-size: 14px
 
 }

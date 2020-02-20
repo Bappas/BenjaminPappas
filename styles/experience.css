@@ -1,9 +1,9 @@
 /*experience*/
 #experience-hero {
-    background-image:  linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), url("https://res.cloudinary.com/milessmith/image/upload/v1581227637/Personal%20Site/IMG_20190526_173112-PANO.jpg");
+    background-image:  linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), url("/photos/iheartla.jpg")
 }
 #experience-hero a {
-    border: solid 1px #660033;
+    border: solid 1px #6D7BB7;
     box-shadow: 1px 1px black;
     background-color: transparent;
     font-size: 14px;
@@ -15,7 +15,7 @@
 #experience-hero a:hover{
     transition: .8s;
     background-color: #f9f9f9;
-    color: #660033;
+    color: #6D7BB7;
     box-shadow: 3px 3px black;
 }
 

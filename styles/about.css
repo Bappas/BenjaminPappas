@@ -1,7 +1,7 @@
 /*About ME PAGE*/
 
 #about-hero {
-    background-image:  linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), url("https://res.cloudinary.com/milessmith/image/upload/v1581229572/Personal%20Site/next%20to%20a%20barn.jpg");
+    background-image:  linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), url("/photos/benonparkingstructure.jpg");
     background-position: 90% 30%;
     
 }
@@ -41,7 +41,7 @@
 }
 
 #about-information #gallery #image-1 {
-    background-image: url(https://res.cloudinary.com/milessmith/image/upload/v1581226330/Personal%20Site/IMG_20190620_203433_1.jpg);
+    background-image: url("/photos/benanddad.jpg");
     background-position: center;
     background-size: cover;
 }
@@ -63,7 +63,7 @@
 }
 
 #about-information #gallery #image-3{
-    background-image: url(https://res.cloudinary.com/milessmith/image/upload/v1581226332/Personal%20Site/Snapchat-30663706_1.jpg);
+    background-image: url("/photos/faminnam.jpg");
     background-size: cover;
 }
 #about-information #gallery #image-3:hover #image-text3 {
