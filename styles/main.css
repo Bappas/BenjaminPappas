@@ -266,7 +266,7 @@ Text Domain:
 
 /*First tab*/
 #events .pill_1 .wrapper {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/photos/skiing.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://res.cloudinary.com/dvaqknckt/image/upload/v1612057560/Photos/skiing_ejcuwm.jpg");
   background-position: 50% 20%;
   background-size: 100%;
   background-repeat: no-repeat;
@@ -292,21 +292,21 @@ Text Domain:
     box-shadow: 3px 3px black;
 }
 #events .pill_2 .wrapper {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/photos/lacarlights.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://res.cloudinary.com/dvaqknckt/image/upload/v1612057551/Photos/lacarlights_ddqm1d.jpg");
   background-position: 0% 70%;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 #events .pill_3 .wrapper {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/photos/SuttleDusk.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://res.cloudinary.com/dvaqknckt/image/upload/v1612057555/Photos/SuttleDusk_gcfhef.jpg");
     background-position: 0% 70%;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 #events .pill_4 .wrapper {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/photos/swanhallsunset.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://res.cloudinary.com/dvaqknckt/image/upload/v1612057571/Photos/swanhallsunset_vkzfc5.jpg");
     background-position: 100% 80%;
   background-size: cover;
   background-repeat: no-repeat;

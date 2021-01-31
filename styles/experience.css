@@ -1,6 +1,6 @@
 /*experience*/
 #experience-hero {
-    background-image:  linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), url("/photos/iheartla.jpg")
+    background-image:  linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), url("https://res.cloudinary.com/dvaqknckt/image/upload/v1612057502/Photos/iheartla_jsaura.jpg")
 }
 #experience-hero a {
     border: solid 1px #6D7BB7;

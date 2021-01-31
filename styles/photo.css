@@ -1,5 +1,5 @@
 #photography-hero  {
-   background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), url("/photos/IMG_20191202_165555.jpg");
+   background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), url("https://res.cloudinary.com/dvaqknckt/image/upload/v1612057558/Photos/IMG_20191202_165555_f0j6eo.jpg");
     background-position: 50% 30%;
 }
 

@@ -1,7 +1,7 @@
 /*About ME PAGE*/
 
 #about-hero {
-    background-image:  linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), url("/photos/benphotoatoxy.jpg");
+    background-image:  linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), url("https://res.cloudinary.com/dvaqknckt/image/upload/v1612057489/Photos/benphotoatoxy_eki42e.jpg");
     background-position: 90% 30%;
     
 }
@@ -41,7 +41,7 @@
 }
 
 #about-information #gallery #image-1 {
-    background-image: url("/photos/benanddad.jpg");
+    background-image: url("https://res.cloudinary.com/dvaqknckt/image/upload/v1612057477/Photos/benanddad_evzqm6.jpg");
     background-position: center;
     background-size: cover;
 }
@@ -63,7 +63,7 @@
 }
 
 #about-information #gallery #image-3{
-    background-image: url("/photos/faminnam.jpg");
+    background-image: url("https://res.cloudinary.com/dvaqknckt/image/upload/v1612057519/Photos/faminnam_wagipm.jpg");
     background-size: cover;
 }
 #about-information #gallery #image-3:hover #image-text3 {
