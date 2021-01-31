@@ -216,7 +216,7 @@ Text Domain:
 }
 /* Hero on homepage*/
 #intro-hero {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1)), url("/photos/chilcott.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1)), url("https://res.cloudinary.com/dvaqknckt/image/upload/v1612057505/Photos/chilcott_ltjdkp.jpg");
   background-attachment: fixed;
 }
 #intro-hero .col-lg-8 .hero-text-wrapper h2{
