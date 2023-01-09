@@ -216,7 +216,7 @@ Text Domain:
 }
 /* Hero on homepage*/
 #intro-hero {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1)), url("https://res.cloudinary.com/dvaqknckt/image/upload/v1612057505/Photos/chilcott_ltjdkp.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1)), url("https://res.cloudinary.com/dvaqknckt/image/upload/v1673302586/Photos/chilcott_ltjdkp-3_g9ciu5.jpg");
   background-attachment: fixed;
 }
 #intro-hero .col-lg-8 .hero-text-wrapper h2{
@@ -266,7 +266,7 @@ Text Domain:
 
 /*First tab*/
 #events .pill_1 .wrapper {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://res.cloudinary.com/dvaqknckt/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1643180525/Photos/benrockclimbing_npngtp.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://res.cloudinary.com/dvaqknckt/image/upload/v1673302597/Photos/IMG-20221208-WA0006-2_yzbop2.jpg");
   background-position: 50% 20%;
   background-size: 100%;
   background-repeat: no-repeat;
